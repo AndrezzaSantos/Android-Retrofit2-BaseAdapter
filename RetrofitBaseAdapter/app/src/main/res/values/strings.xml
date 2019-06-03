@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeuRetrofit2</string>
+    <string name="btn_text_user">User</string>
+    <string name="hint_txt_id">Enter user id</string>
+    <string name="hint_txt_username">Enter title</string>
+    <string name="hint_txt_data">Enter body</string>
+    <string name="btn_txt_addUser">Add</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_editar">Editar</string>
+</resources>
